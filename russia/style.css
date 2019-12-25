@@ -1,0 +1,35 @@
+h1{
+	font-size: 50px; /*размер шрифта*/
+	font-family: 'Roboto', sans-serif;
+	margin-top: 80px;
+	color: #A40004;
+
+}
+body{
+	background: #081073;
+	width: 70%;
+	margin: 0 auto;
+	font-family: 'Oswald', sans-serif;
+}
+p{
+	width: 65%;
+	line-height: 30px; /*расстояние между строками*/
+	letter-spacing: 1px; /*расстояние между буквами*/
+	font-size: 20px;
+	color: #FF0000;
+	font-weight: 700;
+}
+img{
+	width: 1050px;
+	margin-top: 15px;
+}
+a{
+	color:white;
+	display: block;
+	font-size: 25px;
+	margin-top: 10px;
+	text-decoration: none;
+}
+a:hover{ /*добавляет новое свойство при наведении*/
+	color:#FF0208;
+}
